@@ -1,5 +1,7 @@
 # KitoFillKit
 
+**[Documentation](https://wyksofts-inc.github.io/KitoFillKit/documentation/kitofillkit/)**
+
 Fills SwiftUI forms with coherent, reproducible synthetic data for QA/dev
 speed — a seeded persona generator plus a lightweight field registry.
 **Debug/QA tooling — never link into a release build.** See
